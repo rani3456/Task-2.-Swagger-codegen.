@@ -12,11 +12,17 @@ curl or any other HTTP client.
 
 # Contents
 - show in mongodb compass ui
--  Adding a Actor
--  Viewing Created Actor
--  Deleting a Created Actor
--  Updating the Created actor	
+-  Adding a Course
+-  Viewing Created Course
+-  Deleting a Created Course
+-  Updating the Created Course	
 -  Swagger UI
 
-![Rani Kumari](https://user-images.githubusercontent.com/117644617/200317642-ee7200b4-73c2-482e-9a61-00c422c6ed8e.jpg)
+# About Project
+It is a swagger ui project in which I did a small application created one module inside it that is course module .
+I took id ,name and description as a attribute name.In which we can add course ,delete course ,getall course and get 
+course by Id and i showed swagger ui by using  http://localhost:9091/swagger-ui.html .
+
+This is my Swagger ui.
+![Screenshot (85)](https://user-images.githubusercontent.com/117644617/200321724-6c60dacc-261d-46e7-9878-3ba7cf593f9a.png)
 

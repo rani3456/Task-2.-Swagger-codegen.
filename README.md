@@ -35,6 +35,22 @@ get All course
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/117644617/200330629-c63696c4-dd7e-4e90-8ea2-dad166723982.png)
 
+get course by id
+![Screenshot (88)](https://user-images.githubusercontent.com/117644617/200332446-4bfde3e9-459e-47fd-8683-3ed24123e446.png)
+
+Add course 
+
+course is added successfully
+
+update course by using specific id
+
+course is updated successfully
+
+delete course by using id
+
+course is deleted successfully
+
+
 
 
 

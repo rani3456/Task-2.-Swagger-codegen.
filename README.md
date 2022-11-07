@@ -33,9 +33,8 @@ get All course
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/117644617/200328914-59a9d0af-e0a9-487e-931a-1c34f6292047.png)
 
+![Screenshot (68)](https://user-images.githubusercontent.com/117644617/200330629-c63696c4-dd7e-4e90-8ea2-dad166723982.png)
 
-![Screenshot (79)](https://user-images.githubusercontent.com/117644617/200329734-7c729158-9b63-4ecd-9088-f02cc9c9398c.png)
-![Uploading Screenshot (83).png…]()
 
 
 

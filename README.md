@@ -29,6 +29,29 @@ This is my Swagger ui first page appear.
 All course controller 
 ![Screenshot (86)](https://user-images.githubusercontent.com/117644617/200324699-4cb34d23-19ed-4b0d-985a-33d15e22e2f5.png)
 
+get All course
+
+![Screenshot (67)](https://user-images.githubusercontent.com/117644617/200328914-59a9d0af-e0a9-487e-931a-1c34f6292047.png)
+
+
+![Screenshot (79)](https://user-images.githubusercontent.com/117644617/200329734-7c729158-9b63-4ecd-9088-f02cc9c9398c.png)
+![Uploading Screenshot (83).png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

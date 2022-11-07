@@ -21,7 +21,12 @@ curl or any other HTTP client.
 # About Project
 It is a swagger ui project in which I did a small application created one module inside it that is course module .
 I took id ,name and description as a attribute name.In which we can add course ,delete course , getall course and get 
-course by Id and got swagger ui by using  http://localhost:9091/swagger-ui.html .
+course by Id and got swagger ui by using  http://localhost:9091/swagger-ui.html .It is user friendly and easy to understand.
+
+# Benefits 
+It is an open source tool that generates a web page that documents the APIs generated ny the swagger specification.It is user 
+friendly and easy to understand.Through this users try out the APIs directly in the browser.Some companies like Google ,Microsoft
+and Netflix make use of the Swagger framework.
 
 This is my first page of Swagger ui.
 

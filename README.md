@@ -20,9 +20,15 @@ curl or any other HTTP client.
 
 # About Project
 It is a swagger ui project in which I did a small application created one module inside it that is course module .
-I took id ,name and description as a attribute name.In which we can add course ,delete course ,getall course and get 
-course by Id and i showed swagger ui by using  http://localhost:9091/swagger-ui.html .
+I took id ,name and description as a attribute name.In which we can add course ,delete course , getall course and get 
+course by Id and got swagger ui by using  http://localhost:9091/swagger-ui.html .
 
-This is my Swagger ui.
+This is my Swagger ui first page appear.
 ![Screenshot (85)](https://user-images.githubusercontent.com/117644617/200321724-6c60dacc-261d-46e7-9878-3ba7cf593f9a.png)
+
+All course controller 
+![Screenshot (86)](https://user-images.githubusercontent.com/117644617/200324699-4cb34d23-19ed-4b0d-985a-33d15e22e2f5.png)
+
+
+
 
